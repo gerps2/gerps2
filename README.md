@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:0a1e9d,100:4b6afc&text=Gerson%20Prudencio&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20Agents%20%26%20MCP&descAlignY=60" alt="Gerson Prudencio, Software Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:0a1e9d,100:4b6afc&text=Gerson%20Prudencio&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20Agents%20e%20MCP&descAlignY=60" alt="Gerson Prudencio, Software Engineer" width="100%" />
 </p>
 
 <p align="center">
